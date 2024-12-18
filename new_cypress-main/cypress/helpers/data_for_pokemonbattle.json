@@ -1,0 +1,9 @@
+{
+	"login":"USER_LOGIN",
+	"password":"USER_PASSWORD",
+    "holder_cards_name": "IVANOV IVAN",
+    "card_number": "4620869113632996",
+    "exp_date": "1225",
+    "cvv": "125",
+    "code": "56456"
+}
